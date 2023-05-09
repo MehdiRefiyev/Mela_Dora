@@ -1,0 +1,213 @@
+header{
+    background-image: url("../image/close-up-woman-harvesting-garden.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+footer{background-image: url("../image/Screen\ Shot\ 2021-12-22\ at\ 00.25.02.jpg");}
+.p2_hader{
+    width: 100%;
+    height: 20%;
+    background-color: white; 
+}
+.hader_info{height: 26%;}
+.nav_bar{height: 45%;}
+.fa1{
+    width: 17%;
+    height: 100%;
+    padding: 5px;
+}
+.plantheader{
+    width: 16%;
+    height: 30vh;
+    margin-top: 28%;
+    margin-left: 75%;
+    background-image: url("../image/unnamed\ \(2\).png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.text_leftp2{
+    margin-left: 20%;
+    text-align: left;
+    margin-top: 3%;
+    font-weight: bolder;
+}
+.fa-search{color: black;}
+.fa-times{color: black;}
+.photoasidep2{
+    float: right;
+    margin-top:7%;
+    height: 55vh;
+    background-image: url("../image/244-2446395_vegetable-png-clipart-min-basket-full-of-vegetables.jpg");
+    background-size: contain;
+}
+.info_divp2{
+    background-color: transparent;
+    margin-top: 10%;
+    height: 80vh;
+}
+.text_midp2{margin-top: 0%;}
+.card_place_p2{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+}
+.cardsp2{
+    margin-top: 3%;
+    width: 30%;
+    margin-left: 3%;
+    border: none;
+}
+.card_text_p2{font-size: smaller;}
+.imgtopp2{
+    height: 50%;
+    width: 50%;
+}
+.card-bodyp2{
+    height: 50%;
+    text-align: start;
+}
+.phone_num{color: black;}
+a {color: black;}
+.p2_gallery{
+    width: 85%;
+    height: 100vh;
+    display: inline-flex;
+}
+.p2_gallery_place{
+    width:27%;
+    height: 100%;
+    margin-right: 3%;
+    margin-left: 3%;
+    display:flex;
+    flex-direction: column;
+}
+.p2_gallery_photo , .p2_gallery_photov2{
+    width: 100%;
+    height: 35%;
+    margin-top: 20%;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.p2_gallery_photov2{margin-top: 0%;}
+img{
+    height: 100%;
+    width: 100%;
+}
+.dots_area{
+    width: 20%;
+    height: 6vh;
+    margin-left: 40%;
+    text-align: center;
+}
+.dot {
+    width: 22px;
+    height: 22px;
+    margin-left: 5%;
+    border-radius: 50%;
+    background-color: lightgreen;
+    display: inline-block;
+}
+.fa-chevron-left , .fa-chevron-right{margin-left: 30%;}
+.slide-next , .slide-prev{
+    width:7%;
+    height: 20vh;
+    margin-top: 30%;
+    float: left;
+    margin-bottom: 2%;
+    opacity:0.5;
+    transition: 0.5s;
+}
+.slide-next:hover{
+    transition: 0.5s;
+    opacity: 1;
+}
+.slide-prev:hover{
+    transition: 0.5s;
+    opacity: 1;
+}
+.slide-prev{float: right;}
+#slide1{display: inline-flex;}
+#slide2{display: none;}
+#slide3{display: none;}
+.showupdiv{
+    width: 100%;
+    height:90vh;
+    position: absolute;
+    background-color: whitesmoke;
+    display: none;
+}
+.showphoto{
+    width: 70%;
+    height: 100%;
+    margin-left: 15%;
+    background-image: url("../image/karina-vorozheeva-brQS8ihqRq4-unsplash.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.loqo_place{background-image: url("../image/Сгруппировать\ 1.svg");}
+.links_footer li {color: black;}
+.bti{color: black;}
+/*page5*/
+.cardsp5flex{
+    margin-top: 25vh;
+    margin-bottom: 30vh;
+}
+/* page 6 */
+.flexcointp6{
+ width: 50%;
+ display:inline-flex;
+ height: fit-content;
+ margin-top: 10vh;
+ flex-direction: column;
+ margin-left: 25%;
+}
+.p6text{text-align: center;
+}
+/*page p7 */
+.boxplacep7{
+    width: 70%;
+    height: fit-content;
+    display: inline-flex;
+    margin-left: 20%;
+    margin-top: 15vh;
+}
+.cardp7{
+    width: 28%;
+    height: 45vh;
+    margin-right: 5%;
+    display: inline-block;
+}
+.peofilep7{
+    width: 44%;
+    height: 34%;
+    margin-left: 30%;
+    display: inline-block;
+    border-radius: 100%;
+    background-color: white;
+    position:relative;
+    z-index: 1;
+}
+.infoplacep7{
+    width: 100%;
+    height: 75%;
+    display: inline-block;
+    background-color: whitesmoke;
+    position: relative;
+    bottom: 20%;
+}
+.imgp7profile{
+    height: 50%;
+    width: 50%;
+    margin-top: 25%;
+    margin-left: 25%;
+}
+.mainfirtsp{
+    margin-top: 47%;
+    margin-left: 10%;
+}
+.secondp{margin-left: 10%;}

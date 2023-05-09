@@ -1,0 +1,1385 @@
+@media screen and (max-width:2560px) and (min-width:2327px) {
+    .phone_num{font-size: 2.7em;}
+    .fixed{height: 11%;}
+    .div_navbar_loqo{
+        margin-right: 1%;
+        margin-left: 2%;
+    }
+    .gr {font-size:3em;}
+    .fa-search{font-size: 3em;}
+    .inpursearch{height: 50%;}
+    .fa-times{font-size: 3em;}
+    img{inline-size: -webkit-fill-available;}
+    .nav_bar{width: 90%;}
+    ul{margin-left: 13.5%;}
+    ul li {font-size: 2.8em;}
+    .box_h3{font-size: 3em;}
+    .info_h1{font-size: 5em;}
+    .text_info p {font-size: 2.5em;;}
+    .sarmasiq{background-size: contain;}
+    .tree_loqo{background-size: contain;}
+    .icon_box1, .icon_box2, .icon_box3, .icon_box4{background-size: contain;}
+    .icons_place{
+        margin-top: 4%;
+        height: 10%;
+    }
+    .icon_box1_1, .icon_box2_2, .icon_box3_3, .icon_box4_4{font-size: 2em;}
+    .icons_text{
+        font-size:3em;
+        margin-left: 18%;
+        align-items: flex-start;
+    }
+    .num_icon1, .num_icon2, .num_icon3{height: 30%;}
+    h1{font-size: 5em;}
+    .loqo_info3{width: 35%;}
+    .left_h1 {font-size: 3em;}
+    .card_text_place p{font-size: 1.5em;}
+    .meyve_ul {
+        font-size: 2em;
+        margin-left: 33%;
+    }
+    .card p  {font-size: 2em;}
+    .link_place_footer{font-size: 2em;}
+    .tx_pl{font-size: 1.5em;}
+    .links_footer li{width: 100%;}
+    .photo_aside{height: 125vh;}
+    .info_div{height: 110vh;}
+    .inputsearchp2{
+        margin-left: 2%;
+        width: 78%;
+    }
+    .plantheader{
+        height: 26vh;
+        margin-top: 33%;
+    }
+    .p2_gallery{height: 97vh;}
+    .dot{
+        width: 32px;
+        height: 32px;
+    }
+    .slide-next , .slide-prev{margin-top: 2%;}
+    .photoasidep2{height: 55vh;}
+    .p3_h1{font-size: 5em;}
+    .textinp3{font-size: 2em;}
+    .icon_place_p3{
+        height: 28%;
+        font-size: 12em;
+        color: grey;
+        margin-top: 0%;
+    }
+    .text_area_p3{width: 85%;}
+    .p4manat{font-size: 3.5em;}
+    .p4text{font-size: 2.5em;}
+    .p6text{ font-size: 2.3em;}
+    .peofilep7{
+        width: 44%;
+        height: 27%;
+        margin-left: 30%;
+    }
+    .cardp7{height: 50vh;}
+    .infoplacep7{bottom: 12%;}
+    .mainfirtsp{
+        margin-top: 40%;
+        font-size: 2.2em;
+    }
+    .secondp{ font-size: 2.2em;}
+}
+@media screen and (max-width:2326px) and (min-width:2000px) {
+    .phone_num{font-size: 2.7em;}
+    .fixed{height: 11%;}
+    .div_navbar_loqo{
+        margin-right: 8%;
+        margin-left: 2%;
+    }
+    .gr {font-size:3em;}
+    .fa-search{font-size: 2em;}
+    .inpursearch{height: 50%;}
+    .fa-times{font-size: 2em;}
+    img{inline-size: -webkit-fill-available;}
+    .nav_bar{width: 90%;}
+    ul { margin-left: 13.5%;}
+    ul li {font-size: 1.7em;}
+    .box_h3{font-size: 3em;}
+    .info_h1{font-size: 5em;}
+    .text_info p {font-size: 2em;}
+    .sarmasiq{background-size: contain;}
+    .tree_loqo{background-size: contain;}
+    .icon_box1, .icon_box2, .icon_box3, .icon_box4{background-size: contain;}
+    .icons_place{
+        margin-top: 4%;
+        height: 10%;
+    }
+    .icon_box1_1, .icon_box2_2, .icon_box3_3, .icon_box4_4{font-size: 2em;}
+    .icons_text{
+        font-size:3em;
+        margin-left: 18%;
+        align-items: flex-start;
+    }
+    .num_icon1, .num_icon2, .num_icon3{height: 30%;}
+    h1{font-size: 5em;}
+    .loqo_info3{width: 35%;}
+    .left_h1 {font-size: 3em;}
+    .card_text_place p{font-size: 1.2em;}
+    .meyve_ul {
+        font-size: 2em;
+        margin-left: 30%;
+    }
+    .card p  {font-size: 1.5em;}
+    .link_place_footer{font-size: 2em;}
+    .tx_pl{font-size: 1.5em;}
+    .links_footer li{width: 100%;}
+    .photo_aside{height: 125vh;}
+    .info_div{height: 110vh;}
+    .inputsearchp2{
+        margin-left: 2%;
+        width: 78%;
+    }
+    .grp2{
+        font-size: 1.5em;
+        margin-top: 3%;
+    }
+    .phonep2{font-size: 1.5em;}
+    .photoasidep2{height: 55vh;}
+    .plantheader{
+        height: 29vh;
+        margin-top: 30%;
+    }
+    .p2_gallery{height: 97vh;}
+    .dot{
+        width: 26px;
+        height: 26px;
+    }
+    .slide-next , .slide-prev{margin-top: 25%;} 
+    .photoasidep2{height: 55vh;}
+    .p3_h1{font-size: 4em;}
+    .textinp3{font-size: 1.8em;}
+    .icon_place_p3{
+        height: 28%;
+        font-size: 9em;
+        color: grey;
+        margin-top: 0%;
+    }
+    .text_area_p3{width: 85%;}
+    .p4manat{font-size: 2.5em;}
+    .p4text{font-size: 1.5em;}
+    .p6text{font-size: 2.2em;}
+    .peofilep7{
+        width: 44%;
+        height: 27%;
+        margin-left: 30%;
+    }
+    .cardp7{height: 50vh;}
+    .infoplacep7{ bottom: 12%;}
+    .mainfirtsp{
+        margin-top: 40%;
+        font-size: 1.7em;
+    }
+    .secondp{font-size: 1.7em;}
+}
+@media screen and (max-width:1999px) and (min-width:1682px) {
+    .phone_num{font-size: 2em;}
+    .fixed{height: 11%;}
+    .div_navbar_loqo{
+        margin-right: 2%;
+        margin-left: 2%;
+    }
+    .gr {font-size:2em;}
+    .fa-search{font-size: 2em;}
+    .inpursearch{height: 50%;}
+    .fa-times{font-size: 2em;}
+    img{inline-size: -webkit-fill-available;}
+    .nav_bar{width: 90%;}
+    ul {margin-left: 13.5%;}
+    ul li {font-size: 1.7em;}
+    .box_h3{font-size: 2em;}
+    .info_h1{font-size: 5em;}
+    .text_info p {font-size: 1.7em;}
+    .sarmasiq{background-size: contain;}
+    .tree_loqo{ background-size: contain;}
+    .icon_box1, .icon_box2, .icon_box3, .icon_box4{background-size: contain;}
+    .icons_place{
+        margin-top: 4%;
+        height: 10%;
+    }
+    .icon_box1_1, .icon_box2_2, .icon_box3_3, .icon_box4_4{font-size: 2em;}
+    .icons_text{
+        font-size:3em;
+        margin-left: 18%;
+        align-items: flex-start;
+    }
+    .num_icon1, .num_icon2, .num_icon3{height: 30%; }
+    h1{font-size: 5em;}
+    .loqo_info3{width: 35%;}
+    .left_h1 {font-size: 2em;}
+    .card_text_place p{font-size: 1.3em;}
+    .meyve_ul {
+        font-size: 2em;
+        margin-left: 28%;
+    }
+    .card p  {font-size: 1.5em;}
+    .link_place_footer{font-size: 2em; }
+    .tx_pl{font-size: 1.2em;}
+    .links_footer li{
+        width: 100%;
+        font-size: 1em;
+    }
+    .photo_aside{height: 125vh;}
+    .info_div{height: 110vh;}
+    .inputsearchp2{
+        margin-left: 2%;
+        width: 78%;
+    }
+    .photoasidep2{height: 55vh;}
+    .plantheader{
+        height: 29vh;
+        margin-top: 30%;
+    }
+    .p2_gallery{height: 97vh;}
+    .dot{
+        width: 22px;
+        height: 22px;
+    }
+    .slide-next , .slide-prev{margin-top: 23%;}
+    .photoasidep2{height: 55vh;}
+    .p3_h1{font-size: 3em;}
+    .textinp3{font-size: 1.5em;}
+    .icon_place_p3{
+        height: 28%;
+        font-size: 8em;
+        color: grey;
+        margin-top: 0%;
+    }
+    .text_area_p3{width: 85%;}
+    .p4manat{font-size: 2.5em;}
+    .p4text{font-size: 1.5em;}
+    .p6text{font-size: 2em;}
+    .peofilep7{
+        width: 44%;
+        height: 27%;
+        margin-left: 30%;
+    }
+    .cardp7{height: 50vh;}
+    .infoplacep7{bottom: 12%;}
+    .mainfirtsp{
+        margin-top: 40%;
+        font-size: 1.6em;
+    }
+    .secondp{font-size: 1.6em;}
+}
+@media screen and (max-width:1681px) and (min-width:1440px) {
+    .phone_num{font-size:1.5em;}
+    .fixed{height: 11%;}
+    .div_navbar_loqo{margin-left: 2%;}
+    .gr {font-size:1.5em;}
+    .fa-search{font-size: 1.5em;}
+    .inpursearch{height: 50%;}
+    .fa-times{font-size: 2em;}
+    img{inline-size: -webkit-fill-available;}
+    .nav_bar{width: 90%;}
+    ul {margin-left: 13.5%;}
+    ul li {font-size: 1.3em;}
+    .box_h3{font-size: 2em;}
+    .info_h1{font-size: 4em;}
+    .text_info p { font-size: 1.5em;;}
+    .sarmasiq{background-size: contain;}
+    .tree_loqo{background-size: contain;}
+    .icon_box1, .icon_box2, .icon_box3, .icon_box4{background-size: contain;}
+    .icons_place{
+        margin-top: 4%;
+        height: 10%;
+    }
+    .icon_box1_1, .icon_box2_2, .icon_box3_3, .icon_box4_4{font-size: 1.5em;}
+    .icons_text{
+        font-size:3em;
+        margin-left: 18%;
+        align-items: flex-start;
+    }
+    .num_icon1, .num_icon2, .num_icon3{height: 30%;}
+    h1{font-size: 4em;}
+    .loqo_info3{width: 35%;}
+    .left_h1 {font-size: 2em;}
+    .meyve_ul {
+        font-size: 1.5em;
+        margin-left: 28%;
+    }
+    .card{height: 35vh;
+    }
+    .h1_bt{margin-top: 7%;}
+    .card p  {font-size: 1.5em;}
+    .card_text_place p{font-size: 1.3em;}
+    .link_place_footer{font-size: 2em;}
+    .tx_pl{font-size: 1em;}
+    .links_footer li{
+        width: 100%;
+        font-size: 1em;
+    }
+    .photo_aside{height: 145vh;}
+    .info_div{height: 125vh;}
+    .inputsearchp2{
+        margin-left: 2%;
+        width: 78%;
+    }
+    .grp2{
+        font-size: 1.5em;
+        margin-top: 3%;
+    }
+    .phonep2{font-size: 1.5em;}
+    .photoasidep2{height: 55vh;}
+    .plantheader{
+        height: 29vh;
+        margin-top: 32%;
+    }
+    .card-bodyp2{font-size: 1.2em;}
+    .p2_gallery{height: 97vh;}
+    .dot{
+        width: 20px;
+        height: 20px;
+    }
+    .slide-next , .slide-prev{margin-top: 23%;}
+    .photoasidep2{ height: 55vh;}
+    .p3_h1{font-size: 2em;}
+    .textinp3{font-size: 1.3em;}
+    .icon_place_p3{
+        height: 28%;
+        font-size: 6em;
+        color: grey;
+        margin-top: 0%;
+    }
+    .text_area_p3{width: 85%;}
+    .p4manat{font-size: 2em;}
+    .p4text{font-size: 1.2em;}
+    .p6text{font-size: 1.3em;}
+    .peofilep7{
+        width: 40%;
+        height: 27%;
+        margin-left: 30%;
+    }
+    .cardp7{height: 50vh;}
+    .infoplacep7{bottom: 12%;}
+    .mainfirtsp{
+        margin-top: 40%;
+        font-size: 1.3em;
+    }
+    .secondp{font-size: 1.3em;}
+}
+@media screen and (max-width:1439px) and (min-width:1024px) {
+    .fixed{height: 13%;}
+    img{inline-size: -webkit-fill-available;}
+    .nav_bar{ width: 90%;}
+    ul{margin-left: 13.5%;}
+    ul li {padding:5px;}
+    .icon_box1, .icon_box2, .icon_box3, .icon_box4{background-size: contain;}
+    .icons_place{
+        margin-top: 4%;
+        height: 10%;
+    }
+    .icons_text{
+        font-size:3em;
+        margin-left: 18%;
+        align-items: flex-start;
+    }
+    .loqo_info3{width: 35%;}
+    .meyve_ul { margin-left: 33%;}
+    .cards_place_vegetablse{ height: 90vh;}
+    .card{height: 40vh;}
+    .h1_bt{ margin-top: 7%;}
+    .link_place_footer{ font-size: 1.3em;}
+    .tx_pl{font-size: 1em;}
+    .links_footer li{
+        width: 100%;
+        font-size: 1em;
+    }
+    .photo_aside{height: 135vh;}
+    .info_div{height: 115vh;}
+    .num_icon1, .num_icon2, .num_icon3 { font-size: 4.5em; }
+    .inputsearchp2{
+        margin-left: 2%;
+        width: 78%;
+    }
+    .photoasidep2{height: 55vh;}
+    .plantheader{
+        height: 23vh;
+        margin-top: 42%;
+    }
+    .card-bodyp2{ font-size:2em;}
+    .p2_gallery{height: 97vh;}
+    .dot{
+        width: 20px;
+        height: 20px;
+    }
+    .slide-next , .slide-prev{margin-top: 23%;}
+    .p3_h1{font-size: 2em;}
+    .textinp3{font-size: 1.1em;}
+    .text_area_p3{width: 90%;}
+    .icon_place_p3{
+        height: 24%;
+        font-size: 5em;
+        color: grey;
+        margin-top: 0%;
+    }
+    .p4manat{font-size: 2em;}
+    .peofilep7{
+        width: 48%;
+        height: 27%;
+        margin-left: 26%;
+    }
+    .cardp7{height: 50vh;}
+    .infoplacep7{ bottom: 12%;}
+}
+@media screen and (max-width:1023px) and (min-width:768px) {
+    .fixed{height: 11%;}
+    img{inline-size: -webkit-fill-available;}
+    .sosial_cor{margin-right: 2%;}
+    .nav_bar{
+        display: flex;
+        width: 90%;
+    }
+    .div_navbar_loqo{
+        margin-right: 2%;
+        margin-left: 2%;
+    }
+    ul {
+        width: 60%;
+        display: flex;
+        margin-left: 13.5%;
+    }
+    ul li {
+        padding:5px;
+        font-size: 0.1em;
+    }
+    .box_h3{font-size: 1em;}
+    .info_h1{font-size: 2em;}
+    .text_info{font-size: 0.4em;}
+    .search_div{margin-left: 5%;}
+    .fa1{ margin-left: 2%;}
+    .icon_box1, .icon_box2, .icon_box3, .icon_box4{background-size: contain;}
+    .icons_place{
+        margin-top: 4%;
+        height: 10%;
+        font-size: 0.5em;
+    }
+    .icons_text{
+        font-size:3em;
+        margin-left: 18%;
+        align-items: flex-start;
+    }
+    .loqo_info3{width: 35%;}
+    .meyve_ul {
+        margin-left: 28%;
+        width: 70%;
+        font-size: 0.7em;
+    }
+    .meyve_ul ul{display: flex;}
+    .meyve_ul ul li{margin-right: 10px;}
+    .card{
+        height: 35vh;
+        font-size: 0.7em;
+    }
+    .h1_bt{margin-top: 7%;}
+    .link_place_footer{font-size: 1em;}
+    .tx_pl{font-size: 0.5em;}
+    .num_icon1{height: 30%;}
+    .links_footer li{
+        width: 100%;
+        font-size: 1em;
+    }
+    .photo_aside{height: 135vh;}
+    .info_div{height: 120vh;}
+    .card-bodyp2{font-size: 1.2em;}
+    .card-bodyp2 h3{font-size: 1.5em;}
+    .plantheader{
+        height: 22vh;
+        margin-top: 40%;
+    }
+    .p2_gallery{height: 75vh;}
+    .dot{
+        width: 15px;
+        height: 15px;
+    }
+    .slide-next , .slide-prev{margin-top: 23%;}
+    .photoasidep2{height: 55vh;}
+    .fa-chevron-right , .fa-chevron-left{font-size: 2em;}
+    .p3_h1{font-size: 1em;}
+    .textinp3{font-size: smaller;}
+    .icon_place_p3{
+        height: 24%;
+        margin-top: 0;
+        font-size: 4em;
+        color: grey;
+    }
+    .text_area_p3{width: 90%;}
+    .showupp3{
+        height: fit-content;
+        width: 90%;
+        margin-left: 5%;
+    }
+    .p4manat{font-size: 2em;}
+    .peofilep7{
+        width: 48%;
+        height: 27%;
+        margin-left: 26%;
+    }
+    .cardp7{height: 50vh;}
+    .infoplacep7{bottom: 14%;}
+}
+@media screen and (max-width:767px) and (min-width:425px) {
+    .phone_cor{width: 40%;}
+    .nav_bar{
+        width: 95%;
+        height: 82%;
+        margin-left: 5%;
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 1%;
+    }
+    .div_navbar_loqo{
+        display: inline-block;
+        width: 50%;
+        height: 15%;
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+    .nav_button_res {
+        display: inline-block;
+        width: 15%;
+        height: 16%;
+        margin-left: 30%;
+    }
+    .fa-window-close{
+        margin-left: 13%;
+        margin-top: 14%;
+    }
+    ul {
+        list-style-type: none;
+        width: 100%;
+        margin: 0;
+        padding: 0%;
+        padding-left: 0%;
+        display: none;
+        flex-direction: column;
+        order: 1;
+        background-color: white;
+        text-align: center;
+    }
+    ul li {margin-right: 0%;}
+    .bt_input{
+        color: white;
+        width: 70%;
+        height: 70%;
+        margin-top: 10%;
+        margin-left: 20%;
+    }
+    .inpursearch{
+        margin-top: 5%;
+        margin-left: 5%;
+    }
+    .search_div{
+        width: 85%;
+        height: 16%;
+        display: none;
+        margin-left: 0%;
+        color: white;
+        background-color: white;
+    }
+    .fa-search{
+        margin-top: 7%;
+        margin-left: 7%;
+        color: black;
+    }
+    .fa1{
+        width: 85%;
+        height: 16%;
+        margin-left: 0%;
+        background-color: white;
+    }
+    .fa-times{
+        margin-left: 5%;
+        color: black;
+    }
+    .fixed{
+        display: none;
+        position: none;
+    }
+    .slick-slider{display: none;}
+    .photo_aside{display: none;}
+    .info_div{
+        width: 100%;
+        height: 150vh;
+        margin-top: 0%;
+    }
+    .tree_loqo{background-size: contain;}
+    .icons_place{
+        width: 80%;
+        margin-left: 10%;
+    }
+    .loqo_info3{
+        width: 60%;
+        margin-left: 20%;
+    }
+    .card-body{font-size: small;}
+    .card_place{
+        height: 340vh;
+        width: 100%;
+        margin-top: 2%;
+        display: flex;
+        flex-direction: column;
+    }
+    .card1, .card2, .card3 {
+        width: 80%;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        margin-left: 10%;
+        margin-bottom: 10%;
+    }
+    .tx_pl{
+        width: 100%;
+        height: 50%;
+    }
+    .card_img, .card_img2, .card_img3 {
+        height: 50%;
+        width: 100%;
+    }
+    .card2 , .card3 {margin-left: 10%;} 
+    .num_icon1, .num_icon2, .num_icon3{
+        font-size: 4em;
+        height: 40%;
+    }
+    .meyve_ul{
+        width: 90%;
+        margin-left: 10%;
+    }
+    .meyve_ul ul{
+        display: flex;
+        flex-direction: row;
+    }
+    .meyve_ul ul li{font-size: 1em;}
+    .cards_place_vegetablse{height: 180vh;}
+    .card{
+        width: 30%;
+        height: 37vh;
+    }
+    .card_place2{
+        height: 200vh;
+        width: 100%;
+        margin-top: 2%;
+        display: flex;
+        flex-direction: column;
+    }
+    .bottom_card, .bottom_card2 {
+        width: 90%;
+        height: 33%;
+        margin-left: 5%;
+        margin-top: 3%;
+    }
+    .card_bt_img1, .card_bt_img2, .card_bt_img3 {
+        width: 100%;
+        height: 60%;
+    }
+    .card_item2{margin-top: 0%;}
+    footer{height: 210vh;}
+    .footer_main_div{
+        height: 90%;
+        flex-direction: column;
+    }
+    .link_place_footer{
+        width: 90%;
+        margin-top: 2%;
+        font-size: smaller;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .loqo_place{
+        margin-left: 15%;
+        width: 70%;
+    }
+    .nav_name_link, .vagetables_name_link, .info_name_link{
+        font-size: xx-small;
+        margin-right: 0%;
+        width: 100%;
+        height: 38.3vh;
+        margin-top: 5vh;
+        font-size: medium;
+    }
+    .nav_name_link{height: 43.3vh;}
+    #ulnav li a {color:black;}
+    .links_footer{
+        align-items: center;
+        background-color: transparent;
+    }
+    .icon_box1_1, .icon_box2_2, .icon_box3_3, .icon_box4_4 {
+        width: 25%;
+        height: 30%;
+        text-align: center;
+    }
+    /*  page 1 biz kimik*/
+    .p2_hader{
+        height: 100%;
+        background: url("../image/close-up-woman-harvesting-garden.jpg") center center / cover no-repeat;
+    }
+    .p2_info_header{height: 10%;}
+    .plantheader{ display: none;}
+    .text_leftp2{margin-bottom: 5%;}
+    .card_place_p2{
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .cardsp2{
+        width: 90%;
+        height: 30vh;
+        margin-left: 5%;
+        margin-top: 5vh;
+    }
+    .card-bodyp2{ text-align: center;}
+    .info_divp2{ height: 150vh;}
+    .p2_gallery{height: 71vh;}
+    .slide-next , .slide-prev{
+        height: 7vh;
+        margin-top: 38%;
+    }
+    .dot{
+        width: 10px;
+        height: 10px;
+    }
+    .fa-chevron-right , .fa-chevron-left{font-size: 1em;}
+    .card_flex_pl{flex-direction: column;}
+    .img_place_p3{
+        height: 50vh;
+        width: 90%;
+    }
+    .text_place_p3 {
+        width: 90%;
+        height: 80%;
+        margin-left: 0%;
+    }
+    .icon_place_p3{
+        height: 20%;
+        font-size: 4em;
+        color: grey;
+        margin-top: 0%;
+    }
+    .text_area_p3{
+        width: 100%;
+        height: 80%;
+    }
+    .flex_cardp3{flex-direction: column;}
+    .showupp3{
+        height: fit-content;
+        width: 100%;
+        margin-left: 0%;
+        flex-direction: column;
+    }
+    .p4manat{font-size: 2em;}
+    .mainpicture{
+        width: 85%;
+        margin-left: 5%;
+    }
+    .textareap3sw{
+        width: 90%;
+        margin-left:5%;
+    }
+    .p4picturseraplle{
+        width: 90%;
+        margin-top: 5%;
+        margin-left: 5%;
+    }
+    .imgtopp2{width:100%;}
+    .boxplacep7{
+        width: 80%;
+        flex-direction: column;
+        margin-left: 10%;
+    }
+    .cardp7{
+        width: 100%;
+        height: 65vh;
+        margin-right: 0;
+    }
+    .peofilep7{
+        width: 33%;
+        height: 30%;
+        margin-left: 34%;
+    }
+    .infoplacep7 {bottom: 15%;}
+    .mainfirtsp {margin-top: 35%;}
+}
+@media screen and (max-width:424px) and (min-width:375px) {
+    .phone_cor{ width: 40%;}
+    .nav_bar{
+        width: 95%;
+        height: 82%;
+        margin-left: 5%;
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 1%;
+    }
+    .div_navbar_loqo{
+        display: inline-block;
+        width: 50%;
+        height: 15%;
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+    .nav_button_res {
+        display: inline-block;
+        width: 15%;
+        height: 16%;
+        margin-left: 30%;
+    }
+    .fa-window-close{
+        margin-left: 13%;
+        margin-top: 14%;
+    }
+    ul {
+        list-style-type: none;
+        width: 100%;
+        margin: 0;
+        padding: 0%;
+        padding-left: 0%;
+        display: none;
+        flex-direction: column;
+        order: 1;
+        background-color: white;
+        text-align: center;
+    }
+    ul li {margin-right: 0%;}
+    .bt_input{
+        color: white;
+        width: 70%;
+        height: 70%;
+        margin-top: 10%;
+        margin-left: 20%;
+    }
+    .inpursearch{
+        margin-top: 5%;
+        margin-left: 5%;
+    }
+    .search_div{
+        width: 85%;
+        height: 16%;
+        display: none;
+        margin-left: 0%;
+        color: white;
+        background-color: white;
+    }
+    .fa-search{
+        margin-top: 7%;
+        margin-left: 7%;
+        color: black;
+    }
+    .fa1{
+        width: 85%;
+        height: 16%;
+        margin-left: 0%;
+        background-color: white;
+    }
+    .fa-times{
+        margin-left: 5%;
+        color: black;
+    }
+    .fixed{
+        display: none;
+        position: none;
+    }
+    .slick-slider{display: none;}
+    .photo_aside{display: none;}
+    .info_div{
+        width: 100%;
+        height: 170vh;
+        margin-top: 0%;
+    }
+    .tree_loqo{background-size: contain;}
+    .icons_place{
+        width: 80%;
+        margin-left: 10%;
+    }
+    .loqo_info3{
+        width: 60%;
+        margin-left: 20%;
+    }
+    .card-body{font-size: small;}
+    .card_place{
+        height: 340vh;
+        width: 100%;
+        margin-top: 2%;
+        display: flex;
+        flex-direction: column;
+    }
+    .card1, .card2, .card3 {
+        width: 80%;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        margin-left: 10%;
+        margin-bottom: 10%;
+    }
+    .tx_pl{
+        width: 100%;
+        height: 50%;
+    }
+    .card_img, .card_img2, .card_img3 {
+        height: 50%;
+        width: 100%;
+    }
+    .card2 , .card3 {margin-left: 10%;} 
+    .num_icon1, .num_icon2, .num_icon3{
+        font-size: 4em;
+        height: 40%;
+    }
+    .meyve_ul{
+        width: 90%;
+        margin-left: 10%;
+    }
+    .meyve_ul ul{
+        display: flex;
+        flex-direction: row;
+    }
+    .meyve_ul ul li{
+        font-size: small;
+        margin-right: 10px;
+    }
+    .cards_place_vegetablse{height: 180vh;}
+    .card{
+        width: 30%;
+        height: 37vh;
+    }
+    .card_place2{
+        height: 200vh;
+        width: 100%;
+        margin-top: 2%;
+        display: flex;
+        flex-direction: column;
+    }
+    .bottom_card, .bottom_card2 {
+        width: 90%;
+        height: 33%;
+        margin-left: 5%;
+        margin-top: 3%;
+    }
+    .card_bt_img1, .card_bt_img2, .card_bt_img3 {
+        width: 100%;
+        height: 60%;
+    }
+    .card_item2{margin-top: 0%;}
+    footer{height: 210vh;}
+    .footer_main_div{
+        height: 90%;
+        flex-direction: column;
+    }
+    .link_place_footer{
+        width: 90%;
+        margin-top: 2%;
+        font-size: smaller;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .loqo_place{
+        margin-left: 15%;
+        width: 75%;
+    }
+    .nav_name_link, .vagetables_name_link, .info_name_link{
+        font-size: xx-small;
+        margin-right: 0%;
+        width: 100%;
+        height: 38.3vh;
+        margin-top: 5vh;
+        font-size: medium;
+    }
+    .nav_name_link{height: 43.3vh;}
+    #ulnav li a {color:black;}
+    .links_footer{
+        align-items: center;
+        background-color: transparent;
+    }
+    .icon_box1_1, .icon_box2_2, .icon_box3_3, .icon_box4_4 {
+        width: 25%;
+        height: 30%;
+        text-align: center;
+    }
+    /*  page 1 biz kimik*/
+    .p2_hader{
+        height: 100%;
+        background: url("../image/close-up-woman-harvesting-garden.jpg") center center / cover no-repeat;
+    }
+    .p2_info_header{height: 10%;}
+    .plantheader{ display: none;}
+    .text_leftp2{ margin-bottom: 5%;}
+    .card_place_p2{
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .cardsp2{
+        width: 90%;
+        height: 30vh;
+        margin-left: 5%;
+        margin-top: 5vh;
+    }
+    .card-bodyp2{text-align: center;}
+    .info_divp2{height: 150vh;}
+    .p2_gallery{height: 65vh;}
+    .slide-next , .slide-prev{
+        height: 7vh;
+        margin-top: 38%;
+    }
+    .dot{
+        width: 10px;
+        height: 10px;
+    }
+    .fa-chevron-right , .fa-chevron-left{font-size: 1em;}
+    .card_flex_pl{flex-direction: column;}
+    .img_place_p3{
+        height: 50vh;
+        width: 90%;
+    }
+    .text_place_p3 {
+        width: 90%;
+        height: 80%;
+        margin-left: 0%;
+    }
+    .icon_place_p3{
+        height: 20%;
+        font-size: 4em;
+        color: grey;
+        margin-top: 0%;
+    }
+    .text_area_p3{
+        width: 100%;
+        height: 80%;
+    }
+    .flex_cardp3{flex-direction: column;}
+    .showupp3{
+        height: fit-content;
+        width: 100%;
+        margin-left: 0%;
+        flex-direction: column;
+    }
+    .p4manat{font-size: 2em;}
+    .mainpicture{
+        width: 85%;
+        margin-left: 5%;
+    }
+    .textareap3sw{
+        width: 90%;
+        margin-left:5%;
+    }
+    .p4picturseraplle{
+        width: 90%;
+        margin-top: 5%;
+        margin-left: 5%;
+    }
+    .imgtopp2{width:100%;}
+    .boxplacep7{
+        width: 80%;
+        flex-direction: column;
+        margin-left: 10%;
+    }
+    .cardp7{
+        width: 100%;
+        height: 65vh;
+        margin-right: 0;
+    }
+    .peofilep7{
+        width: 36%;
+        height: 30%;
+        margin-left: 32%;
+    }
+}
+@media screen and (max-width:374px) and (min-width:320px) {
+    .phone_cor{width: 40%;}
+    .nav_bar{
+        width: 95%;
+        height: 82%;
+        margin-left: 5%;
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 1%;
+    }
+    .div_navbar_loqo{
+        display: inline-block;
+        width: 50%;
+        height: 15%;
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+    .nav_button_res {
+        display: inline-block;
+        width: 20%;
+        height: 16%;
+        margin-left: 30%;
+    }
+    .fa-window-close{
+        margin-left: 13%;
+        margin-top: 14%;
+    }
+    ul {
+        list-style-type: none;
+        width: 100%;
+        margin: 0;
+        padding: 0%;
+        padding-left: 0%;
+        display: none;
+        flex-direction: column;
+        order: 1;
+        background-color: white;
+        text-align: center;
+    }
+    ul li {margin-right: 0%;}
+    .bt_input{
+        color: white;
+        width: 70%;
+        height: 70%;
+        margin-top: 10%;
+        margin-left: 20%;
+    }
+    .inpursearch{
+        margin-top: 5%;
+        margin-left: 5%;
+    }
+    .search_div{
+        width: 80%;
+        height: 16%;
+        display: none;
+        margin-left: 0%;
+        color: white;
+        background-color: white;
+    }
+    .fa-search{
+        margin-top: 7%;
+        margin-left: 7%;
+        color: black;
+    }
+    .fa1{
+        width: 80%;
+        height: 16%;
+        margin-left: 0%;
+        background-color: white;
+    }
+    .fa-times{
+        margin-left: 5%;
+        color: black;
+    }
+    .fixed{
+        display: none;
+        position: none;
+    }
+    .slick-slider{display: none;}
+    .photo_aside{display: none;}
+    .info_div{
+        width: 100%;
+        height: 200vh;
+        margin-top: 0%;
+    }
+    .tree_loqo{background-size: contain;}
+    .icons_place{
+        width: 100%;
+        margin-left: 0%;
+    }
+    .loqo_info3{
+        width: 60%;
+        margin-left: 20%;
+    }
+    .card-body{font-size: small;}
+    .card_place{
+        height: 340vh;
+        width: 100%;
+        margin-top: 2%;
+        display: flex;
+        flex-direction: column;
+    }
+    .card1, .card2, .card3 {
+        width: 80%;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        margin-left: 10%;
+        margin-bottom: 10%;
+    }
+    .tx_pl{
+        width: 100%;
+        height: 50%;
+    }
+    .card_img, .card_img2, .card_img3 {
+        height: 50%;
+        width: 100%;
+    }
+    .card2 , .card3 {margin-left: 10%;} 
+    .num_icon1, .num_icon2, .num_icon3{
+        font-size: 4em;
+        height: 40%;
+    }
+    .meyve_ul{
+        width: 90%;
+        margin-left: 10%;
+    }
+    .meyve_ul ul{
+        display: flex;
+        flex-direction: row;
+    }
+    .meyve_ul ul li{
+        font-size: small;
+        margin-right: 10px;
+    }
+    .cards_place_vegetablse{height: 180vh;}
+    .card{
+        width: 30%;
+        height: 37vh;
+    }
+    .card_place2{
+        height: 200vh;
+        width: 100%;
+        margin-top: 2%;
+        display: flex;
+        flex-direction: column;
+    }
+    .bottom_card, .bottom_card2 {
+        width: 90%;
+        height: 33%;
+        margin-left: 5%;
+        margin-top: 3%;
+    }
+    .card_bt_img1, .card_bt_img2, .card_bt_img3 {
+        width: 100%;
+        height: 60%;
+    }
+    .card_item2{margin-top: 0%;}
+    footer{height: 210vh;}
+    .footer_main_div{
+        height: 90%;
+        flex-direction: column;
+    }
+    .link_place_footer{
+        width: 90%;
+        margin-top: 2%;
+        font-size: smaller;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .loqo_place{
+        margin-left: 15%;
+        width: 75%;
+    }
+    .nav_name_link, .vagetables_name_link, .info_name_link{
+        font-size: xx-small;
+        margin-right: 0%;
+        width: 100%;
+        height: 38.3vh;
+        margin-top: 5vh;
+        font-size: medium;
+    }
+    .nav_name_link{height: 43.3vh;}
+    #ulnav li a {
+        color:black;
+    }
+    .links_footer{
+        align-items: center;
+        background-color: transparent;
+    }
+    .icon_box1_1, .icon_box2_2, .icon_box3_3, .icon_box4_4 {
+        width: 25%;
+        height: 30%;
+        text-align: center;
+    }
+    /*  page 1 biz kimik*/
+    .p2_hader{
+        height: 100%;
+        background: url("../image/close-up-woman-harvesting-garden.jpg") center center / cover no-repeat;
+    }
+    .p2_info_header{height: 10%;}
+    .plantheader{display: none;}
+    .text_leftp2{margin-bottom: 5%;}
+    .info_divp2{height: 177vh;}
+    .card_place_p2{
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+    .cardsp2{
+        width: 90%;
+        height: 30vh;
+        margin-left: 5%;
+        margin-top: 5vh;
+    }
+    .card-bodyp2{text-align: center;}
+    .p2_gallery{ height: 55vh;}
+    .slide-next , .slide-prev{
+        height: 7vh;
+        margin-top: 38%;
+    }
+    .dot{
+        width: 10px;
+        height: 10px;
+    }
+    .fa-chevron-right , .fa-chevron-left{font-size: 1em;}
+    .card_flex_pl{flex-direction: column;}
+    .img_place_p3{
+        height: 50vh;
+        width: 90%;
+    }
+    .text_place_p3 {
+        width: 90%;
+        height: 80%;
+        margin-left: 0%;
+    }
+    .icon_place_p3{
+        height: 20%;
+        font-size: 4em;
+        color: grey;
+        margin-top: 0%;
+    }
+    .text_area_p3{
+        width: 100%;
+        height: 80%;
+    }
+    .flex_cardp3{flex-direction: column;}
+    .showupp3{
+        height: fit-content;
+        width: 100%;
+        margin-left: 0%;
+        flex-direction: column;
+    }
+    .p4manat{font-size: 2em;}
+    .mainpicture{
+        width: 85%;
+        margin-left: 5%;
+    }
+    .textareap3sw{
+        width: 90%;
+        margin-left:5%;
+    }
+    .p4picturseraplle{
+        width: 90%;
+        margin-top: 5%;
+        margin-left: 5%;
+    }
+    .imgtopp2{width:100%;}
+    .boxplacep7{
+        width: 80%;
+        flex-direction: column;
+        margin-left: 10%;
+    }
+    .cardp7{
+        width: 100%;
+        height: 65vh;
+        margin-right: 0;
+    }
+}
+@media screen and (min-width:1365px) and (max-width:1366px){
+    .plantheader{
+        height: 35vh;
+        margin-top: 24%;
+    }
+    .card_text_p2{font-size: 0.7em;}
+    .peofilep7{
+        width: 40%;
+        height: 27%;
+        margin-left: 32%;
+    }
+    .cardp7{height: 60vh;}
+    .infoplacep7{bottom: 12%;}
+    .mainfirtsp{
+        margin-top: 40%;
+        font-size: 1.2em;
+    }
+    .secondp{font-size: 1.2em;}
+}
